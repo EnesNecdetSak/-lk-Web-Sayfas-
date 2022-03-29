@@ -1,2 +1,2 @@
-# -llk-Web-Sayfas-
-İlk Web Sayfası
+# -llk-Web-Sayfasi-
+İlk Web Sayfasi
