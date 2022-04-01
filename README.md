@@ -1,1 +1,1 @@
-# HTML2 ODEV
+# Ilk web sayfası
